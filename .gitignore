@@ -1,0 +1,8 @@
+mnist
+venv
+.idea
+Flask/flask_app_1
+IMDb
+!IMDb/*.py
+movieclassifier
+.theanorc
